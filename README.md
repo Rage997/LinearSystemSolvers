@@ -5,13 +5,15 @@ The methods were originally implemented in matlab and to the creation of this re
 ## List of contents
 
 1. Linear Search algorithms
-    1.  
-1. Trust region methods
+    1.  Steepest descent
+    2.  Newton method
+    3.  Quasi-Newton methods (BFGS)
+2. Trust region methods
 
-1. Iterative methods
+3. Iterative methods
    1. Jacobi method
-   1. Gauss Seidel
+   2. Gauss Seidel
 
-1. Multigrid
+4. Multigrid
 
-1.  TODO
+5.  TODO
